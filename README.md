@@ -32,7 +32,7 @@ A basic AI-powered mock interview application built with Next.js. The app lets u
 ### Installation
 
 ```bash
-git clone <https://github.com/iamvtyagi/Ai_Mock_interview>
+git clone <https://github.com/iamvtyagi/Prepwise.git>
 cd ai_mock_interviews
 npm install
 ```
